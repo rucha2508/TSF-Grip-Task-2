@@ -1,2 +1,2 @@
 # TSF-Grip-Task-2
-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually using K-Means ML Algorithm
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually using KMeans Clustering Algorithm
